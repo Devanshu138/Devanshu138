@@ -6,8 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=Devanshu138&icon=1&color=3)](https://visitcount.itsvg.in)
 
 
-<img align="right" alt="coding" width="400" src="https://user-
-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/c60ffd65-a4a5-4451-a3a6-54f0d86d00f4)>
 
 <br>🔭 I’m currently working on My Self </br>
 <br>🤝 I’m looking for Coders </br>
