@@ -2,10 +2,15 @@
 # <h1 align="center">Hi,👋 I'm Devanshu Gautam </h1>
 
 # <h3 align="center">A passionate coder/Developer </h3>
+---
+[![](https://visitcount.itsvg.in/api?id=Devanshu138&icon=1&color=3)](https://visitcount.itsvg.in)
+
 
 <img align="right" alt="coding" width="400" src="https://user-
 images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-🔭 I’m currently working on My Self<br>🤝 I’m looking for Coders
+
+<br>🔭 I’m currently working on My Self </br>
+<br>🤝 I’m looking for Coders </br>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/s4AHeAAhHR) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100093610670545) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arreygautam?igsh=MXEzcnoyamhnbjRyOQ==](https://www.instagram.com/arreygautam/profilecard/?igsh=MXU5ZGl4dW9nNXFqdQ==)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28091871/devanshu-gautam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@_devanshugautam?feature=shared) 
 
