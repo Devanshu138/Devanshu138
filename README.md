@@ -303,32 +303,55 @@ Available: Open to Opportunities ✅
 <!-- Hire Me Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
-  Open for Opportunities
+  🚀 Open for Opportunities
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 </h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVELY_LOOKING-00C853?style=for-the-badge&labelColor=1a1a2e" alt="Status"/>
+</p>
+
 <div align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@                                                                 @@
-@@   🎯 Currently seeking exciting opportunities in:              @@
-@@                                                                 @@
-@@   • Full-Stack Development                                      @@
-@@   • Backend Engineering                                         @@
-@@   • DevOps & Cloud Infrastructure                               @@
-@@   • AI/ML Engineering                                           @@
-@@                                                                 @@
-@@   📧 Let's discuss how I can add value to your team!           @@
-@@                                                                 @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/💼-Full_Stack_Development-6C63FF?style=flat-square" alt="Full Stack"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🤖-AI_/_ML_Engineering-FF6B6B?style=flat-square" alt="AI/ML"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/⚙️-Backend_Engineering-00C853?style=flat-square" alt="Backend"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🔐-Cybersecurity_&_Automation-FF9800?style=flat-square" alt="Security"/>
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
+<p align="center">
+  <strong>💬 I'm excited to bring my skills to innovative teams!</strong>
+</p>
+
 <p align="center">
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/📧_HIRE_ME-Let's_Work_Together!-6C63FF?style=for-the-badge&labelColor=black" alt="Hire Me"/>
+    <img src="https://img.shields.io/badge/📧_CONTACT_ME-Let's_Build_Something_Amazing!-6C63FF?style=for-the-badge&labelColor=1a1a2e" alt="Contact Me"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/devanshu-gautam">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Devanshu138">
+    <img src="https://img.shields.io/badge/View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
