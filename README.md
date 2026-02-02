@@ -204,17 +204,25 @@ Available: Open to Opportunities ✅
 <br/>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devanshu138&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshu138&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  <a href="https://github.com/Devanshu138">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devanshu138&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Devanshu138">
+    <img width="49%" src="https://streak-stats.demolab.com?user=Devanshu138&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu138&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" alt="Top Languages"/>
+  <a href="https://github.com/Devanshu138">
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devanshu138&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&cache_seconds=1800" alt="Top Languages"/>
+  </a>
 </p>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshu138&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" alt="GitHub Activity Graph"/>
+  <a href="https://github.com/Devanshu138">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshu138&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" alt="GitHub Activity Graph"/>
+  </a>
 </p>
 
 <br/>
