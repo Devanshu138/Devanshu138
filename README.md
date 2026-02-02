@@ -12,7 +12,7 @@
 <!-- Animated Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;%F0%9F%92%BB+Building+Scalable+%26+Beautiful+Applications;%F0%9F%9A%80+Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Welcome+to+my+Digital+Universe!;Building+Scalable+%26+Beautiful+Apps;Turning+Ideas+into+Reality+with+Code;Open+for+Exciting+Opportunities!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -65,7 +65,9 @@ Available: Open to Opportunities ✅
 
 ### 🏆 Highlights
 
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<p align="center">
+  <img alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+</p>
 
 - 🚀 **3+ Years** of coding experience
 - 💻 Built **15+** personal/professional projects
